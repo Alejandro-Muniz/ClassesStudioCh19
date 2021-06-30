@@ -1,0 +1,16 @@
+C:\git-repo\ClassesStudioCh19\obj\Debug\net5.0\ClassesStudioCh19.csproj.AssemblyReference.cache
+C:\git-repo\ClassesStudioCh19\obj\Debug\net5.0\ClassesStudioCh19.GeneratedMSBuildEditorConfig.editorconfig
+C:\git-repo\ClassesStudioCh19\obj\Debug\net5.0\ClassesStudioCh19.AssemblyInfoInputs.cache
+C:\git-repo\ClassesStudioCh19\obj\Debug\net5.0\ClassesStudioCh19.AssemblyInfo.cs
+C:\git-repo\ClassesStudioCh19\obj\Debug\net5.0\ClassesStudioCh19.csproj.CoreCompileInputs.cache
+C:\git-repo\ClassesStudioCh19\bin\Debug\net5.0\ClassesStudioCh19.exe
+C:\git-repo\ClassesStudioCh19\bin\Debug\net5.0\ClassesStudioCh19.deps.json
+C:\git-repo\ClassesStudioCh19\bin\Debug\net5.0\ClassesStudioCh19.runtimeconfig.json
+C:\git-repo\ClassesStudioCh19\bin\Debug\net5.0\ClassesStudioCh19.runtimeconfig.dev.json
+C:\git-repo\ClassesStudioCh19\bin\Debug\net5.0\ClassesStudioCh19.dll
+C:\git-repo\ClassesStudioCh19\bin\Debug\net5.0\ref\ClassesStudioCh19.dll
+C:\git-repo\ClassesStudioCh19\bin\Debug\net5.0\ClassesStudioCh19.pdb
+C:\git-repo\ClassesStudioCh19\obj\Debug\net5.0\ClassesStudioCh19.dll
+C:\git-repo\ClassesStudioCh19\obj\Debug\net5.0\ref\ClassesStudioCh19.dll
+C:\git-repo\ClassesStudioCh19\obj\Debug\net5.0\ClassesStudioCh19.pdb
+C:\git-repo\ClassesStudioCh19\obj\Debug\net5.0\ClassesStudioCh19.genruntimeconfig.cache
